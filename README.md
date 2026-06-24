@@ -1,5 +1,5 @@
 # MindHealth — Digital Mental Health & Psychological Support System
-A comprehensive AI-powered mental health platform for students in higher education, built for **Smart India Hackathon 2025** (Problem Statement SIH25092, Theme: HealthTech). Team CodeStorm — MITS/SIH/008. Advanced through **2n ational rounds**.
+A comprehensive AI-powered mental health platform for students in higher education, built for **Smart India Hackathon 2025** (Problem Statement SIH25092, Theme: HealthTech). Team CodeStorm — MITS/SIH/008. Advanced through **2 national rounds**.
 
 ## Overview
 Mental health issues among students are widespread but severely underserved due to stigma, lack of access, and poor awareness. MindHealth addresses this with an integrated platform combining AI companionship, mood tracking, journaling, screen time monitoring, gamification, and community support — all in one judgment-free space.
